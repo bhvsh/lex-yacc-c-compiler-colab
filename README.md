@@ -1,2 +1,2 @@
-# lex-yacc-c-compiler-colab
-LEX and YACC C Compiler in Colab
+# LEX and YACC C Compiler in Colab
+This repository contains the code for a C compiler implemented using the LEX and YACC tools, and run in the Google Colaboratory environment. The compiler is able to parse and compile C code, producing an executable file as output. The repository includes detailed instructions for setting up the Colaboratory environment and running the compiler. This project is intended for educational purposes and as a demonstration of how LEX and YACC can be used to build a compiler.
